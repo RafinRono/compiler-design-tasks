@@ -1,0 +1,12 @@
+#include <String>
+
+void main()
+{ 
+	int a ;    
+	char c ;    
+	a = 6 ;
+	bool ts = (a == b);
+	string 9s ;  
+
+	cout<<ts<<endl;
+}
