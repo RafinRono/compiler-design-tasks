@@ -1,0 +1,6 @@
+A x B
+A y A
+B x C
+B y C
+C x A
+C y B
